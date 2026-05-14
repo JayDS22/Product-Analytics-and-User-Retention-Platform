@@ -57,4 +57,3 @@ artifacts/*.json
 .coverage
 htmlcov/
 .tox/
-.claude
